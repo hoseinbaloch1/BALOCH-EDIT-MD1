@@ -1,5 +1,5 @@
 {
-  "name": "KING-BOT-MD",
+  "name": "BALOCH-EDIT",
   "version": "2.0.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "king.js",
@@ -64,10 +64,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KING-BOT-OFFICIAL/KING-BOT-MD.git"
+    "url": "git+https://github.com/hoseinbaloch1/BALOCH-EDIT-MD1.git"
   },
   "bugs": {
-    "url": "https://github.com/KING-BOT-OFFICIAL/KING-BOT-MD/issues"
+    "url": "https://github.com/hoseinbaloch1/BALOCH-EDIT-MD1/issues"
   },
-  "homepage": "https://github.com/KING-BOT-OFFICIAL/KING-BOT-MD#readme"
+  "homepage": "https://github.com/hoseinbaloch1/BALOCH-EDIT-MD1#readme"
 }
