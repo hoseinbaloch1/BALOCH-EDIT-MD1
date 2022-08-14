@@ -12,21 +12,21 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94729352830']
-global.premium = ['94729352830']
-global.ownernomer = '94729352830'
+global.owner = ['989339658384']
+global.premium = ['989339658384']
+global.ownernomer = '989339658384'
 global.ownername = 'ШHłТΞ HΛϾКΞЯS'
-global.botname = '[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]'
+global.botname = '[☫𝐵𝐴𝐿𝑂𝐶𝐻 𝐸𝐷𝐼𝑇☫]'
 global.footer = '</> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʙᴏᴛ </>️ ▷'
-global.ig = 'https://github.com/KING-BOT-OFFICIAL'
-global.sc = 'https://github.com/KING-BOT-OFFICIAL/KING-BOT-MD'
-global.myweb = 'https://youtube.com/channel/UCgwWV1Cya4_gUFKYOQYQtHw'
-global.packname = '[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]'
-global.author = 'ШHłТΞ HΛϾКΞЯS'
+global.ig = 'https://github.com/hoseinbaloch1'
+global.sc = 'https://github.com/hoseinbaloch1/BALOCH-EDIT-MD1'
+global.myweb = 'https://youtube.com/channel/UCIdvdgFwdssFC0Nxx9Xk1dQ'
+global.packname = '[☫𝐵𝐴𝐿𝑂𝐶𝐻 𝐸𝐷𝐼𝑇☫]'
+global.author = 'ᎻᎾᏚᎬᏆᏁ○̸̽͜●̽🖇️ᏚᎪᎡᏴᎪᏃᏆ🐍'
 global.sessionName = 'session'
 global.region = 'Sri Lanka'
-global.reactmoji = '🎭'
-global.prefa = ['','!','.','🇱🇰','⚙️','🤘']
+global.reactmoji = '😈'
+global.prefa = ['','!','.','🕊','🐼','🔱']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
