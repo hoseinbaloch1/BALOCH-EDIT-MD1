@@ -1,8 +1,8 @@
 {
-  "name": "KING BOT - MD V1",
-  "description": "⎝🔥𝚱𝚰𝚴Ｇ🔥⎠ ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ ᴠ1.0.0",
-  "repository": "https://github.com/KING-BOT-OFFICIAL/KING-BOT-MD",
-  "logo": "https://telegra.ph/file/24b9b8507613125d34bd1.jpg",
+  "name": "BALOCH-BALOCH-MD1",
+  "description": "ᎻᎾᏚᎬᏆᏁ○̸̽͜●̽🖇️ᏚᎪᎡᏴᎪᏃᏆ🐍1.0.0",
+  "repository": "https://github.com/hoseinbaloch1/BALOCH-EDIT-MD1",
+  "logo": "https://i.ibb.co/5W3gfSG/image.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "env": { 
         "ALIVE_MASSAGE": {
@@ -23,7 +23,7 @@
             "BOT_NAME": {
             "description": "බොට්ගෙ නම...",
             "required": true,
-            "value":"[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘] ᎷᎠ"
+            "value":"☫𝐵𝐴𝐿𝑂𝐶𝐻 𝐸𝐷𝐼𝑇☫ ᎷᎠ1"
         },
             "SONG_DOWNLOAD": {
             "description": "",
